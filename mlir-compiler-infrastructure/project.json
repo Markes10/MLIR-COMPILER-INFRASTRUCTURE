@@ -1,0 +1,8 @@
+{
+  "id": "27",
+  "name": "27-mlir-compiler-infrastructure",
+  "title": "Universal AI/Engineering Compiler Infrastructure",
+  "language": "MLIR",
+  "domain": "Compiler Frameworks & AI Accelerator Dialects",
+  "description": "Multi-Level Intermediate Representation (MLIR) custom dialect and progressive lowering pipeline transforming high-level polyhedral tensor contractions to Affine, Vector, and LLVM dialects."
+}
