@@ -1,7 +1,7 @@
-# 27 - Progressive Polyhedral Tensor Dialect Pipeline (MLIR)
+# Progressive Polyhedral Tensor Dialect Pipeline (MLIR)
 
 ## Executive Overview
-A domain-specific compiler infrastructure written in **Multi-Level Intermediate Representation (MLIR)**. It implements custom tensor contractions and lowering transformations, progressively lowering high-level polyhedral tensor dialects to the **Affine**, **Vector**, and **LLVM** dialects for optimized silicon execution.
+A domain-specific compiler infrastructure written in **Multi-Level Intermediate Representation (MLIR)**. It implements custom tensor contractions and lowering transformations, progressively lowering high-level polyhedral tensor dialects to the **Affine**, **Vector**, and **LLVM** dialects for optimised silicon execution.
 
 ## Progressive Multi-Stage Lowering Pipeline
 
